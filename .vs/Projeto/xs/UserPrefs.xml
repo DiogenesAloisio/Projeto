@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{1B7A4565-8A30-46E8-8290-12BE3343B00E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DAO/BaseDAO.cs">
+    <Files>
+      <File FileName="DAO/BaseDAO.cs" Line="83" Column="1" />
+      <File FileName="Service/PessoaService.cs" Line="33" Column="1" />
+      <File FileName="Model/DataBaseContext.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Projeto" expanded="True">
+            <Node name="Projeto" expanded="True">
+              <Node name="DAO" expanded="True">
+                <Node name="BaseDAO.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+              <Node name="Service" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Projeto PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/yagohenrique/Google Drive/College/7º Periodo/Topicos Especiais I/Project</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yagohenrique/Google Drive/College/7º Periodo/Topicos Especiais I/Project/Projeto/Service/PessoaService.cs" relfile="Service/PessoaService.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
